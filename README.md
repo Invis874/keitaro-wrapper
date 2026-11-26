@@ -1,5 +1,13 @@
 # Keitaro Wrapper
 
+![Docker](https://img.shields.io/badge/Docker-✓-blue?logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)
+![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-3.4-06B6D4?logo=tailwindcss)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql)
+![Keitaro](https://img.shields.io/badge/Keitaro-API-orange)
+
 Тестовое задание: обёртка над рекламным трекером Keitaro.
 
 ## Что делает
